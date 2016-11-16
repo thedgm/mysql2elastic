@@ -1,0 +1,26 @@
+{
+  "name": "mysql2elastic",
+  "version": "0.0.1",
+  "description": "Tool to pull data from MySQL and update Elastic Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "to-be-done-tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thedgm/mysql2elastic.git"
+  },
+  "keywords": [
+    "mysql",
+    "elastic",
+    "search",
+    "sync"
+  ],
+  "author": "DGM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thedgm/mysql2elastic/issues"
+  },
+  "homepage": "https://github.com/thedgm/mysql2elastic#readme"
+}
+
